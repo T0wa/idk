@@ -1,0 +1,6 @@
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Entidades\bin\Debug\Entidades.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Entidades\obj\Debug\Entidades.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Entidades\obj\Debug\Entidades.pdb
