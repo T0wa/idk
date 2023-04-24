@@ -1,0 +1,11 @@
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\bin\Release\Negocio.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\bin\Release\Negocio.pdb
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\bin\Release\Dao.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\bin\Release\Entidades.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\bin\Release\Dao.pdb
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\bin\Release\Entidades.pdb
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\obj\Release\Negocio.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Negocio\obj\Release\Negocio.pdb
