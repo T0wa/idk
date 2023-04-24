@@ -1,0 +1,9 @@
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\bin\Release\Dao.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\bin\Release\Dao.pdb
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\bin\Release\Entidades.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\bin\Release\Entidades.pdb
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\obj\Release\Dao.csproj.AssemblyReference.cache
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\obj\Release\Dao.csproj.CoreCompileInputs.cache
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\obj\Release\Dao.csproj.CopyComplete
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\obj\Release\Dao.dll
+C:\Users\JUANICO\Desktop\NICO\prog cosas\loging_register2.0\Dao\obj\Release\Dao.pdb
